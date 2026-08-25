@@ -346,8 +346,8 @@
       }
     },
     "freelaw-studio": {
-      "sha": "d065ffb7f7790ecfdfdebbd582f166cd4fd9d0f3",
-      "version": "0.3.0",
+      "sha": "32a3cc1bcf8292c9458949d1a3ff7968bc8c3ce4",
+      "version": "0.3.1",
       "components": {
         "commands": [
           {
