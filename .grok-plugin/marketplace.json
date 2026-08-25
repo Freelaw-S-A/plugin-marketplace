@@ -280,6 +280,20 @@
       "homepage": "https://browser-use.com",
       "keywords": ["browser use", "browser-use", "browser use cloud"],
       "domains": ["browser-use.com", "cloud.browser-use.com"]
+    },
+    {
+      "name": "freelaw-studio",
+      "description": "Connect Grok to a Freelaw Studio law office: clients, processes, services (OS), petitions, deadlines, publications, and documents through the public MCP. Organization-scoped; OAuth 2.1 PKCE; no admin or Backstage access.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Freelaw-S-A/freelaw-studio-agent-plugin.git",
+        "sha": "d065ffb7f7790ecfdfdebbd582f166cd4fd9d0f3",
+        "path": "plugins/freelaw-studio"
+      },
+      "homepage": "https://freelaw.ai/developers",
+      "keywords": ["freelaw", "freelaw studio", "freelaw mcp"],
+      "domains": ["freelaw.ai", "www.freelaw.ai", "app.freelaw.ai"]
     }
   ]
 }
