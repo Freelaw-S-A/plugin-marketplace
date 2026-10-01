@@ -393,6 +393,78 @@
         ]
       }
     },
+    "freelaw-studio": {
+      "sha": "419ca4a5a2bdf1fd4a94c939adb97b21dd25ccb0",
+      "version": "0.4.1",
+      "components": {
+        "commands": [
+          {
+            "name": "conectar",
+            "description": "Conectar este agente ao Freelaw Studio pelo MCP público."
+          },
+          {
+            "name": "intimacoes",
+            "description": "Ler intimações e publicações do Freelaw Studio."
+          },
+          {
+            "name": "os",
+            "description": "Abrir ou acompanhar uma OS / delegação no Freelaw Studio."
+          },
+          {
+            "name": "permissoes",
+            "description": "Descobrir o que este token do Freelaw Studio pode fazer agora."
+          },
+          {
+            "name": "peticao",
+            "description": "Gerar, acompanhar ou baixar uma petição no Freelaw Studio."
+          },
+          {
+            "name": "prazos",
+            "description": "Listar e validar prazos do Freelaw Studio."
+          }
+        ],
+        "mcpServers": [
+          {
+            "name": "freelaw-studio",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "clientes",
+            "description": "Find and maintain Freelaw Studio clients. Use to buscar cliente, cadastrar cliente, or atualizar ficha. Never invent CP…"
+          },
+          {
+            "name": "delegacoes",
+            "description": "Create and follow Freelaw Studio services (OS / delegações). Use when the user wants to abrir uma OS, acompanhar serviç…"
+          },
+          {
+            "name": "documentos",
+            "description": "Upload and confirm files on a Freelaw Studio OS. Use for enviar documento, upload, or anexar arquivo."
+          },
+          {
+            "name": "peticoes",
+            "description": "Generate, poll, and download Freelaw Studio petitions. Use when the user asks to gerar petição, status da peça, or baix…"
+          },
+          {
+            "name": "prazos",
+            "description": "List, validate, and turn Freelaw Studio legal deadlines into tasks. Use for prazos, prazo fatal, or criar tarefa de pra…"
+          },
+          {
+            "name": "processos",
+            "description": "Look up and maintain Freelaw Studio lawsuit files (processos) and tribunal autos downloads. Use for listar processos, f…"
+          },
+          {
+            "name": "publicacoes",
+            "description": "Read Freelaw Studio official-diary publications and intimações. Use for publicações, intimações, marcar como lida, or a…"
+          },
+          {
+            "name": "studio",
+            "description": "Use for client-facing Freelaw Studio workflows through the public API or MCP, including clients, processes, tasks, dele…"
+          }
+        ]
+      }
+    },
     "helena": {
       "sha": "9b71516e006144d323f138f1785f55123ec51931",
       "version": "1.0.0",
