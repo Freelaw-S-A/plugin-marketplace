@@ -415,7 +415,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Freelaw-S-A/freelaw-studio-agent-plugin.git",
-        "sha": "835f9e74a5d9be475742bc3070de522d5a58bedd",
+        "sha": "97d3fdcc33633d0337d0abd0b690969fef421244",
         "path": "plugins/freelaw-studio"
       },
       "homepage": "https://freelaw.ai/developers",
